@@ -13,13 +13,21 @@ Node implementation
 ![image](https://github.com/user-attachments/assets/ab67f854-c81a-42b7-85ed-f67751c3e3c9)
 
 Singly Linked List Operations
+
 is_empty() Is the list empty?
+
 length()List length
+
 travel() traverses the entire linked list
+
 add()Add an element to the head of the linked list
+
 append() adds an element to the end of the linked list
+
 insert() adds an element to any position in the linked list
+
 remove() deletes a node
+
 search() to find out if any node exists
 
 Implementation of singly linked list 
