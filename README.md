@@ -12,24 +12,52 @@ The variable p points to the position of the head node of the linked list. Start
 Node implementation 
 ![image](https://github.com/user-attachments/assets/ab67f854-c81a-42b7-85ed-f67751c3e3c9)
 
-1.Singly Linked List Operations
+Singly Linked List Operations
 
-2.is_empty() Is the list empty?,
+1.is_empty() Is the list empty?,
 
-3.length()List length,
+2.length()List length,
 
-4.travel() traverses the entire linked list,
+3.travel() traverses the entire linked list,
 
-5.add()Add an element to the head of the linked list,
+4.add()Add an element to the head of the linked list,
 
-6.append() adds an element to the end of the linked list,
+5.append() adds an element to the end of the linked list,
 
-7.insert() adds an element to any position in the linked list,
+6.insert() adds an element to any position in the linked list,
 
-8.remove() deletes a node,
+7.remove() deletes a node,
 
-9.search() to find out if any node exists
+8.search() to find out if any node exists
 
 Implementation of singly linked list 
+
 ![image](https://github.com/user-attachments/assets/a913b316-2607-42ff-b1d5-91190823b9eb)
+
 Add element to the header 
+
+
+
+
+Add element at the end 
+
+
+Add element at any position
+
+
+
+Deleting node 
+
+
+
+
+Check if a node exist 
+
+Test node 
+
+
+Test result
+
+
+
+
