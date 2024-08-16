@@ -47,10 +47,7 @@ Add element at any position
 ![image](https://github.com/user-attachments/assets/0d54b31e-956c-406b-b86a-56ac9c7df15b)
 
 Deleting node 
-
-
-
-
+![image](https://github.com/user-attachments/assets/98215b35-cd4d-409f-87a6-530fd44f2a23)
 Check if a node exist 
 
 Test node 
