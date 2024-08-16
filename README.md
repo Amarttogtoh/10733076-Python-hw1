@@ -11,6 +11,8 @@ The variable p points to the position of the head node of the linked list. Start
 
 Node implementation 
 
+node  implementation.png
+
 Singly Linked List Operations
 is_empty() Is the list empty?
 length()List length
