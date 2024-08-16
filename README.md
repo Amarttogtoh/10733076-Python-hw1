@@ -10,8 +10,8 @@ The link field next is used to store the location of the next node
 The variable p points to the position of the head node of the linked list. Starting from p, any node in the list can be found.
 
 Node implementation 
+"C:\Users\SARUUL\Downloads\node  implementation.png"
 
-node  implementation.png
 
 Singly Linked List Operations
 is_empty() Is the list empty?
