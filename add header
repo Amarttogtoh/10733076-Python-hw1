@@ -1,0 +1,5 @@
+ def add(self, item ):#Add header
+                #First create a node to save the item 
+                node= Node(item)
+                #Point the head of the linked list to the new node 
+                self._head = node 
