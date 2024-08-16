@@ -1,0 +1,6 @@
+class Node(object):
+    def_init_(self,item):
+    #
+    self.item=item
+    #
+    self.next=None 
