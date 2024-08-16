@@ -1,0 +1,7 @@
+def search(self,item):
+    cur=self._head
+    while cur !=None:
+        if cur.item ==item:
+            return True
+        cur= cur.next
+        return False
