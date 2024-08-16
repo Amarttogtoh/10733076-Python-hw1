@@ -48,6 +48,8 @@ Add element at any position
 
 Deleting node 
 ![image](https://github.com/user-attachments/assets/98215b35-cd4d-409f-87a6-530fd44f2a23)
+![image](https://github.com/user-attachments/assets/83f646e9-6009-482e-9e65-4fec8d8c407f)
+
 Check if a node exist 
 
 Test node 
