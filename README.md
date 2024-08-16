@@ -23,5 +23,5 @@ insert() adds an element to any position in the linked list
 remove() deletes a node
 search() to find out if any node exists
 
-
 Implementation of singly linked list 
+![image](https://github.com/user-attachments/assets/a913b316-2607-42ff-b1d5-91190823b9eb)
