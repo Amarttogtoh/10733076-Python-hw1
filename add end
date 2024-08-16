@@ -1,0 +1,11 @@
+def append (self , item ): #Add at the end 
+                    node = Node(item)
+                    #First determine whether the linked list is empty. If it is an emptu linked list point_head to the new node.
+                    if self.is_empty():
+                        self.head = Node 
+                        #if itvis not empty , find the tail and point the next node of the tail node to the new node 
+                    else:
+                        cur = self._head 
+                        while cur.next != None :
+                            cur = cure.next
+                            cur.next= node 
