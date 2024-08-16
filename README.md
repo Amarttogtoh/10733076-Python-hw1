@@ -37,8 +37,7 @@ Implementation of singly linked list
 Add element to the header 
 
 ![image](https://github.com/user-attachments/assets/15617217-2f93-4278-b844-17dd04cecfe9)
-
-
+![image](https://github.com/user-attachments/assets/d6ef476b-5c36-4d0a-ac31-02cf93b74143)
 
 Add element at the end 
 
