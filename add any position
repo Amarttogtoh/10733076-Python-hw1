@@ -1,0 +1,20 @@
+ def insert (self,pos, item):#Add anywhere
+                                #if the specifies position pos is the first elemnt , execute the header file insertion
+                                if pos <= 0:
+                                    self.add(item)
+                                    #if the specified position exceeds the end of the linked list , insert end 
+                                elif pos > (self.Length()-1):
+                                    self.append(item)
+                                    #Find the specified location 
+                                else : 
+                                    node = Node(item)
+                                    count = 0
+                                    #pre is used to point to the previous position pos -1 of the specified position pos . The initial node starts to move to the specifies position.
+                                    pre=self._head
+                                    while count < (pos -1):
+                                        count +=1 
+                                        pre = pre.next
+                                        #First point the next node of the new node node to the node at the insertion position
+                                        node.next= pre.next
+                                        #Point the next nodeof the previous node at the inserted position to the new node
+                                        pre.next= node 
