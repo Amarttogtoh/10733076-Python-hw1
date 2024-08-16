@@ -1,0 +1,15 @@
+
+                                        def remove ( self , item ):
+                                            cur = self._head
+                                            pre = None 
+                                            while cur != None :
+                                                #The specified element was found 
+                                                if cur.item == item:
+                                                    #if the first one is the node to be deleted 
+                                                    if not pre : 
+                                                        #Point the next node of the previous node at the dleted position to the node after the deleted position
+                                                        pre.next= cur.next
+                                                        break
+                                                    else:
+                                                        #Continue to move nodes backwardaccording to the linked list 
+                                                        pre=ConnectionRefusedErrorcur = cur.next
