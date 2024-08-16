@@ -43,8 +43,7 @@ Add element at the end
 ![image](https://github.com/user-attachments/assets/4105eda8-e43b-4760-bb02-77555f174aca)
 
 Add element at any position
-
-
+![image](https://github.com/user-attachments/assets/3a15378b-2098-4884-946c-cc56f967eec7)
 
 Deleting node 
 
