@@ -1,0 +1,14 @@
+if_name_=="_main_":
+11 = SingleLinkList()
+11.add(1)
+11.add(2)
+11.append(3)
+11.insert(2,4)
+print("Length":, 11.length())
+    11.travel()
+print( 11.search(3))
+
+print( 11.search(5))
+11.remove(1)
+print("length:", 11.length())
+11.travel()
